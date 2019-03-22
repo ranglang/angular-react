@@ -12,6 +12,7 @@ import {
   Renderer2,
   SimpleChanges,
   AfterContentInit,
+  AfterContentInit,
 } from '@angular/core';
 import classnames from 'classnames';
 import toStyle from 'css-to-style';
